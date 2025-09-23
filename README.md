@@ -48,10 +48,12 @@ DeviceLogonEvents
 | order by Timestamp desc
 
 **Results:** 
+<img width="1075" height="416" alt="Screenshot 2025-09-22 at 8 31 42 pm" src="https://github.com/user-attachments/assets/234fde58-e0a9-4c3b-b220-8b8e49046dcc" />
 
-![][image1]
+<img width="1058" height="553" alt="Screenshot 2025-09-22 at 8 32 12 pm" src="https://github.com/user-attachments/assets/a54860f6-ac3c-4db1-9673-d2ca1544c22d" />
 
-![][image2]![][image3]
+<img width="1064" height="437" alt="Screenshot 2025-09-23 at 12 59 17 am" src="https://github.com/user-attachments/assets/8559507f-49b3-47d8-afd9-8074e57ff418" />
+
 
 **Query 2 \- Malicious Execution:**
 
@@ -81,11 +83,12 @@ SecurityEvent
 
 ### **Results:** 
 
-![][image4]
+<img width="1141" height="740" alt="Screenshot 2025-09-23 at 1 01 49 am" src="https://github.com/user-attachments/assets/046f4185-1c9a-401d-94a2-8a61a3206084" />
 
-![][image5]
+<img width="1129" height="375" alt="Screenshot 2025-09-23 at 1 02 46 am" src="https://github.com/user-attachments/assets/466b16bd-0ece-4e3a-9e4e-350211b29093" />
 
-![][image6]
+<img width="1508" height="914" alt="Screenshot 2025-09-23 at 1 30 49 am" src="https://github.com/user-attachments/assets/d445b7d2-c9b4-4d6f-b1b8-2bbde8a0a8e3" />
+
 
 **Query 3 \- Persistence Detection:**
 
@@ -95,7 +98,8 @@ DeviceProcessEvents
 
 **Results:** 
 
-![][image7]
+<img width="1081" height="761" alt="Screenshot 2025-09-23 at 1 21 18 am" src="https://github.com/user-attachments/assets/955c5907-4759-497b-bd7a-022026dd0e1a" />
+
 
 **Query 4:**
 
@@ -109,7 +113,12 @@ and DeviceId \== "401039d292f73a34a435e685c7090049cb7ce6d5"
 
 **Results:** 
 
-**![][image8]![][image9]![][image10]**
+<img width="1083" height="752" alt="Screenshot 2025-09-23 at 1 33 51 am" src="https://github.com/user-attachments/assets/4926e740-0949-4a11-aede-4ede461d6717" />
+
+<img width="1131" height="790" alt="Screenshot 2025-09-23 at 2 14 43 am" src="https://github.com/user-attachments/assets/0c642a6e-1049-461f-8707-2239a7770eee" />
+
+<img width="1505" height="909" alt="Screenshot 2025-09-23 at 1 36 33 am 1" src="https://github.com/user-attachments/assets/fc2b0513-6152-4cc0-8750-50682224ae23" />
+
 
 **Query 5:**
 
@@ -124,9 +133,10 @@ and DeviceId \== "401039d292f73a34a435e685c7090049cb7ce6d5"
 
 **Results:**
 
-**![][image11]**
+<img width="1069" height="496" alt="Screenshot 2025-09-23 at 2 22 29 am" src="https://github.com/user-attachments/assets/93a5fb00-41bf-48ab-b82f-0a7677a79c3e" />
 
-**![][image12]**
+<img width="1512" height="918" alt="Screenshot 2025-09-23 at 2 25 18 am" src="https://github.com/user-attachments/assets/0fe77142-c73f-48a9-a765-7e85e0753d84" />
+
 
 **Query 6:**
 
@@ -137,9 +147,10 @@ and DeviceId \== "401039d292f73a34a435e685c7090049cb7ce6d5"
 
 **Results:**
 
-**![][image13]**
+<img width="1504" height="919" alt="Screenshot 2025-09-23 at 3 06 15 am" src="https://github.com/user-attachments/assets/f869190d-1547-4934-8cd5-01553edab860" />
 
-**![][image14]**
+<img width="1075" height="605" alt="Screenshot 2025-09-23 at 3 07 18 am" src="https://github.com/user-attachments/assets/4cfbcd11-7e2b-4841-bca4-cad30dce7e6f" />
+
 
 ---
 
