@@ -16,7 +16,7 @@
 # Table of Contents
 
 - [1. Findings](#1-findings)
-- [2. Investigation Summary](#1-investigation-summary)
+- [2. Investigation Summary](#2-investigation-summary)
 - [3. Who, What, When, Where, Why, How](#3-Who-What-When-Where-Why-How)
 - [4. Recommendations](#4-recommendations)
 
