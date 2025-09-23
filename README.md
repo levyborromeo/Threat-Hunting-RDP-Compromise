@@ -14,8 +14,6 @@
 
 ## 1\. Findings 
 
-*List the key evidence you discovered during your investigation*
-
 ### Key Indicators of Compromise (IOCs):
 
 * **Attack Source IP:** 159.26.106.84  
